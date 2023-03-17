@@ -27,3 +27,9 @@
     display: flex;
     margin-left: 2rem;
 }
+footer{
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: center;
+}
