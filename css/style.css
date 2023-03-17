@@ -1,0 +1,25 @@
+#nuts {
+    color: black;
+}
+.secionBienvenida{
+    display: flex;
+    background-color: red;
+    margin-right: 30%;
+    text-align: center;
+}
+.comandoJs{
+    margin: 40px;
+
+}
+.abonos2023{
+    margin-left: 2rem;
+    margin-right: 2rem;
+}
+.contenido{
+    display: flex;
+    margin: 20px;
+}
+.cancha{
+    margin-left: 50px;
+
+}
